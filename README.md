@@ -33,9 +33,17 @@ Used **DAX formula** to calculate key metrics, like:
 - Revenue per Shipment
 - On-Time Delivery Rate
 - Year-over-Year (YoY) Revenue Growth
-and 10+ other metrics
+and 15+ other metrics
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/fdd684a0-7c5f-4acd-935c-9029569f9cd2" alt="measures">
+    <img src="https://github.com/user-attachments/assets/65f701c6-a6d8-47cb-a305-2b0c70172340" alt="measures 2">
+</div>
 
 ## VISUALIZATIONS
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/3c70ef1f-5b7a-4c04-8141-eac437be8a66" alt="1">
+</div>
+
 Integrated a number of visuals:
 
 - KPI tiles
@@ -47,6 +55,12 @@ Integrated a number of visuals:
 - Heatmap
 - Gauge chart
 - Tooltip
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/ce3dce09-72c0-4be5-baeb-2103bb467a96" alt="2">
+</div>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/7e00372b-f5d2-47de-981c-2e4de8f3c725" alt="4">
+</div>
 
 ## INSIGHTS
 
