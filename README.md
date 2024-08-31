@@ -1,5 +1,7 @@
 # FLUXX LOGISTICS PERFORMANCE REPORT
 
+**Live Interactive Dashboard**: https://shorturl.at/VsCur
+
 ## PROBLEM STATEMENT
 
 As Fluxx Logistics approaches its two-year anniversary since commencing operations in August 2022, the company seeks to optimize its supply chain efficiency and  maintain a competitive edge in the market. To achieve this, Fluxx Logistics needs to identify areas of improvement. Through in-depth data analysis, the company aims to:
