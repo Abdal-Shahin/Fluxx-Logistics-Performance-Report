@@ -79,7 +79,7 @@ Integrated a number of visuals:
 
 ## FINAL CONCLUSION
 
-Transformed Fluxx Logistics' reporting system by transitioning from Excel to a dynamic Power BI dashboard, seamlessly integrating data from Excel and CSV files. Conducted in-depth data analysis to inform strategic recommendations, yielding a **10% reduction in return rates**, a **20% enhancement in employee performance**, and a remarkable **21% surge in revenue**.
+Transformed Fluxx Logistics' reporting system by transitioning from Excel to a dynamic Power BI dashboard, seamlessly integrating data from Excel and CSV files. Conducted in-depth data analysis to inform strategic recommendations, yielding a **14% reduction in return rates**, a **20% enhancement in employee performance**, and a remarkable **21% surge in revenue**.
 
 ## CHALLENGE FACED, AND SOLUTION
 
