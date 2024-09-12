@@ -81,11 +81,13 @@ Integrated a number of visuals:
 
 ## FINAL CONCLUSION
 
-●	Transitioned reporting infrastructure from Excel to interactive Power BI dashboard, dramatically enhancing decision-making and data visibility.
-●	Identified growth opportunities in **high-performing products and key markets** to boost revenue in six months through strategic partnerships and targeted promotions.
-●	Spearheaded an in-depth data analysis that achieved a **14% reduction in return rates**, a **20% enhancement in employee performance**, and a remarkable **21% surge in overall revenue**.
-●	Utilized **slicers, bookmarks, and buttons** to make dashboards interactive and user-friendly.
-●	Optimized data cleaning using Power Query, cutting manual work from 30mins to 2min, improving operational efficiency by 90%. 
+ - Transitioned reporting infrastructure from Excel to interactive Power BI dashboard, dramatically enhancing decision-making and data visibility.
+
+ - Identified growth opportunities in **high-performing products and key markets** to boost revenue in six months through strategic partnerships and targeted promotions.
+
+- Spearheaded an in-depth data analysis that achieved a **14% reduction in return rates**, a **20% enhancement in employee performance**, and a remarkable **21% surge in overall revenue**.
+ - Utilized **slicers, bookmarks, and buttons** to make dashboards interactive and user-friendly.
+ - Optimized data cleaning using Power Query, cutting manual work from 30mins to 2min, improving operational efficiency by 90%. 
 
 ## CHALLENGE FACED, AND SOLUTION
 
