@@ -79,15 +79,16 @@ Integrated a number of visuals:
 - **Address Revenue Discrepancies Across Countries**: Develop targeted marketing and sales strategies for underperforming regions like Brazil. Allocate additional budget to marketing and implement a flexible go-to-market strategy to adapt to market shifts.
 - **Rapport Building**: Position Fluxx Logistics as a leader in sustainable logistics by setting and transparently communicating ambitious sustainability goals. This will enhance the company’s reputation and attract environmentally conscious clients.
 
-## FINAL CONCLUSION
+## KEY ACHIEVEMENTS
+- **Transformed reporting infrastructure** by migrating from Excel to Power BI dashboard, slashing reporting time by 30%.
+  
+- Uncovered growth opportunities in **high-performing products and key markets**, boosting revenue in 6 months through strategic partnerships and targeted promotions.
 
- - Transitioned reporting infrastructure from Excel to interactive Power BI dashboard, dramatically enhancing decision-making and data visibility.
+- Led an in-depth data analysis that achieved a **14% reduction in return rates**, a **20% enhancement in employee performance**, and **21% surge in overall revenue**.
 
- - Identified growth opportunities in **high-performing products and key markets** to boost revenue in six months through strategic partnerships and targeted promotions.
+- Optimized dashboard functionality using slicers, bookmarks, and buttons, improving **dashboard adoption rate by 12%**.
 
-- Spearheaded an in-depth data analysis that achieved a **14% reduction in return rates**, a **20% enhancement in employee performance**, and a remarkable **21% surge in overall revenue**.
- - Utilized **slicers, bookmarks, and buttons** to make dashboards interactive and user-friendly.
- - Optimized data cleaning using Power Query, cutting manual work from 30mins to 2min, improving operational efficiency by 90%. 
+- **Automated data cleaning** using Power Query, slashing manual work from 30mins to 2min, improving efficiency by 90%.
 
 ## CHALLENGE FACED, AND SOLUTION
 
