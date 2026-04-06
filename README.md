@@ -1,6 +1,6 @@
 # FLUXX LOGISTICS PERFORMANCE REPORT
 
-**Live Interactive Dashboard**: https://shorturl.at/VsCur
+**Live Interactive Dashboard**: https://app.powerbi.com/view?r=eyJrIjoiMjU0YjRlMmItNDJmMC00NjliLWI3YzItZmQ4Njk5ZTAyOGExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 **Project Video**: https://shorturl.at/2npc6
 
